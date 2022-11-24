@@ -1,0 +1,64 @@
+body {
+    background-color: hsl(0, 0%, 100%);
+    color: #04080c;
+  }
+  
+  .jumbotron {
+    background-image: url("bellybutton_swab_670.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+    color:white;
+  }
+  
+  p {color: #08090a;
+    text-align: center;
+  }
+  
+  h1 {color: #080b0e;
+    font-size:400%;}
+  
+  /* h2 {color: #024246;} */
+  
+  h4 {color: #09BC8A;}
+  
+  /* h3 {color: #024246; 
+    margin-top: 200;
+  } */
+  
+  /* #id {background-color: hsl(0, 1%, 23%);} */
+  
+  .topnav {
+    background-color: #172A3A;
+    overflow: hidden;
+  }
+  
+  /* Style the links inside the navigation bar */
+  .topnav a {
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  /* Change the color of links on hover */
+  .topnav a:hover {
+    background-color: #508991;
+    color: white;
+  }
+  
+  /* Add a color to the active/current link */
+  .topnav a.active {
+    background-color: #09BC8A;
+    color: white;
+  }
+  
+  img {
+    vertical-align: text-bottom;
+  }
+  
+  .caption {
+    text-align: center;
+    color: #508991;
+  }
